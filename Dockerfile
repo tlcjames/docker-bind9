@@ -1,6 +1,6 @@
 FROM alpine:3.10
 
-MAINTAINER JamesM <james.mackley@tlc-direct.co.uk>
+MAINTAINER JamesM <james@tlc-direct.co.uk>
 
 RUN apk --update add bind
 
