@@ -1,6 +1,6 @@
-FROM alpine:latest
+FROM alpine:3.10
 
-MAINTAINER resyst-it <florian.cauzardjarry@gmail.com>
+MAINTAINER JamesM <james.mackley@tlc-direct.co.uk>
 
 RUN apk --update add bind
 
